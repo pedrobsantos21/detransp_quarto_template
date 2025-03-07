@@ -1,0 +1,27 @@
+typography: 
+  fonts: 
+    - family: Open Sans
+      source: google
+      weight: [400, 700]
+  base: 
+    family: Open Sans
+    line-height: 1.5
+    size: 11pt
+    weight: 400
+  headings: 
+    family: Open Sans
+    color: black
+    weight: 700
+  link:
+    color: darkblue
+    decoration: underline
+meta:
+  name: Detran.SP
+  link: https://www.detran.sp.gov.br/
+color: 
+  palette: 
+    blue: "#005CA8"
+    darkblue: "#004077"
+  primary: blue
+logo:
+  medium: img/logo_horizontal.png

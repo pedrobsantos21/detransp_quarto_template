@@ -1,0 +1,26 @@
+---
+title: "XXXXXX"
+format: 
+  typst:
+    section-numbering: 1.1.1.
+    papersize: a4
+    margin:
+      x: 2cm
+      top: 4cm
+      bottom: 3cm
+date: today
+author: Diretoria de Segurança Viária (DSV)
+execute: 
+  echo: false
+  warning: false
+  message: false
+fig-dpi: 300
+fig-cap-location: top
+knitr:
+  opts_knit:
+    fig.showtext: true
+lang: pt-BR
+editor_options: 
+  chunk_output_type: console
+output-file: "CGSV_xxxxxxxx.pdf"
+---
